@@ -12,7 +12,9 @@ Category: Archive/Nostalgia
 
 
 Chat Maniac is a network chat program i wrote when i was 16 using Visual Basic 6
+
 Back then i had a coaxial ipx network with 3/4 other friends in the neighborhood and MSN messenger didnt even exist, so i wrote my own chat program
+
 The purpose was to chat between network games mainly (doom/heretic/worms..) and get some good cursing flowing
 
 
