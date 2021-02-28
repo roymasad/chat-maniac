@@ -1,0 +1,87 @@
+[Setup Wizard Template]
+TemplateDate=10/27/99 2:53:42 PM
+
+[Select Project and Options]
+txtProjFile=C:\Chat\Chat.vbp
+chkProjRebuild=0
+optBldSetup=True
+chkIncludeDEP=0
+optInternet=False
+optDEPOnly=False
+
+[Distribution Method]
+optFloppyTarg=False
+optSingleDirTarg=False
+optMultDirTarg=True
+
+[Multiple Directories]
+cboFloppyDrives=0
+cboFloppyDriveSize=0
+txtDirTarget=C:\chatinst\
+
+[Internet Package]
+optRemoteSite=True
+optLocalSite=False
+txtLocalSite=
+
+[Data Access]
+chkUseJet=1
+chkUseODBC=0
+Isam0=Jet 2.x
+Isam1=
+Jet 2.x=False
+
+[ActiveX Server Components]
+File1=
+
+[Confirm Dependencies]
+File1="C:\PROGRAM FILES\COMMON FILES\MICROSOFT SHARED\DAO\DAO350.DLL",False,32763
+File2="C:\REDWIN\SYSTEM\RICHTX32.OCX",True,32764
+File3="C:\REDWIN\SYSTEM\COMDLG32.OCX",True,32764
+File4=
+
+[Shared ActiveX Application]
+optDeployApplication=True
+optDeployShared=False
+optRemoteServer1=True
+optRemoteServer0=False
+
+[File Summary]
+File1="C:\REDWIN\SYSTEM\MSVBVM50.dll",True,"$(WinSysPathSysFile)",$(DLLSelfRegister),False
+File2="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\StdOle2.tlb",True,"$(WinSysPathSysFile)",$(TLBRegister),False
+File3="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\OleAut32.dll",True,"$(WinSysPathSysFile)",$(DLLSelfRegister),False
+File4="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\OlePro32.dll",True,"$(WinSysPathSysFile)",$(DLLSelfRegister),False
+File5="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\AsycFilt.dll",True,"$(WinSysPathSysFile)",,False
+File6="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\Ctl3d32.dll",True,"$(WinSysPathSysFile)",,False
+File7="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\ComCat.dll",True,"$(WinSysPathSysFile)",$(DLLSelfRegister),False
+File8="C:\REDWIN\SYSTEM\RICHTX32.OCX",True,"$(WinSysPath)",$(DLLSelfRegister),True
+File9="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\RichEd32.dll",True,"$(WinSysPathSysFile)",,False
+File10="C:\REDWIN\SYSTEM\COMDLG32.OCX",True,"$(WinSysPath)",$(DLLSelfRegister),True
+File11="C:\REDWIN\SYSTEM\MSJet35.dll",False,"$(WinSysPathSysFile)",$(DLLSelfRegister),False
+File12="C:\REDWIN\SYSTEM\MSJtEr35.dll",False,"$(WinSysPathSysFile)",,False
+File13="C:\REDWIN\SYSTEM\MSJInt35.dll",False,"$(WinSysPathSysFile)",,False
+File14="C:\REDWIN\SYSTEM\VBAJet32.dll",False,"$(WinSysPathSysFile)",,False
+File15="C:\REDWIN\SYSTEM\VB5DB.dll",False,"$(WinSysPath)",,True
+File16="C:\REDWIN\SYSTEM\MSRD2x35.dll",False,"$(WinSysPathSysFile)",$(DLLSelfRegister),False
+File17="C:\REDWIN\SYSTEM\MsRepl35.dll",False,"$(WinSysPathSysFile)",,False
+File18="D:\VB5.0\OS\SYSTEM\ODBCJt32.dll",False,"$(WinSysPathSysFile)",,False
+File19="D:\VB5.0\OS\SYSTEM\ODBCJI32.dll",False,"$(WinSysPathSysFile)",,False
+File20="D:\VB5.0\OS\SYSTEM\ODBCTL32.dll",False,"$(WinSysPathSysFile)",,False
+File21="C:\Chat\CHAT.exe",True,"c:\chat",,False
+File22="C:\Chat\TEXT.TXT",True,"c:\chat",,False
+File23="C:\Chat\dhistory.txt",True,"c:\chat",,False
+File24="C:\Chat\FONT",True,"c:\chat",,False
+File25="C:\Chat\FONT2",True,"c:\chat",,False
+File26="C:\Chat\KEYSET",True,"c:\chat",,False
+File27="C:\Chat\LIST.TXT",True,"c:\chat",,False
+File28="C:\Chat\MES",True,"c:\chat",,False
+File29="C:\Chat\NAMES",True,"c:\chat",,False
+File30="C:\Chat\PASSCODE",True,"c:\chat",,False
+File31="C:\Chat\ST",True,"c:\chat",,False
+File32="C:\Chat\STATUS",True,"c:\chat",,False
+File33="C:\Chat\BEEP.TXT",True,"c:\chat",,False
+File34="C:\Chat\START\README.DOC",True,"c:\chat\start",,False
+File35="C:\Chat\MESSAGES\hello.txt",True,"c:\chat\messages",,False
+File36="C:\Chat\PICS\Smiley.ico",True,"c:\chat\pics",,False
+File37="C:\Chat\TEMP\ginny",True,"c:\chat\temp",,False
+File38="C:\Chat\trun.txt",True,"C:\CHAT",,False

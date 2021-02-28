@@ -1,0 +1,141 @@
+[Setup Wizard Template]
+TemplateDate=10/19/98 11:16:16 AM
+
+[Select Project and Options]
+txtProjFile=D:\ROY\CHAT\CHAT.vbp
+chkProjRebuild=0
+optBldSetup=True
+chkIncludeDEP=0
+optInternet=False
+optDEPOnly=False
+
+[Distribution Method]
+optFloppyTarg=False
+optSingleDirTarg=False
+optMultDirTarg=True
+
+[Multiple Directories]
+cboFloppyDrives=0
+cboFloppyDriveSize=0
+txtDirTarget=D:\CHAT\
+
+[Internet Package]
+optRemoteSite=True
+optLocalSite=False
+txtLocalSite=
+
+[Data Access]
+chkUseJet=1
+chkUseODBC=0
+Isam0=Excel 5.0
+Isam1=Excel 4.0
+Isam2=Excel 3.0
+Isam3=Excel 8.0
+Isam4=Text
+Isam5=HTML Import
+Isam6=HTML Export
+Isam7=dBase III
+Isam8=dBase IV
+Isam9=dBase 5.0
+Isam10=FoxPro 2.0
+Isam11=FoxPro 2.5
+Isam12=FoxPro 2.6
+Isam13=FoxPro 3.0
+Isam14=FoxPro DBC
+Isam15=Paradox 3.X
+Isam16=Paradox 4.X
+Isam17=Paradox 5.X
+Isam18=Lotus WK1
+Isam19=Lotus WK3
+Isam20=Lotus WK4
+Isam21=Jet 2.x
+Isam22=
+Excel 5.0=False
+Excel 4.0=False
+Excel 3.0=False
+Excel 8.0=False
+Text=False
+HTML Import=False
+HTML Export=False
+dBase III=False
+dBase IV=False
+dBase 5.0=False
+FoxPro 2.0=False
+FoxPro 2.5=False
+FoxPro 2.6=False
+FoxPro 3.0=False
+FoxPro DBC=False
+Paradox 3.X=False
+Paradox 4.X=False
+Paradox 5.X=False
+Lotus WK1=False
+Lotus WK3=False
+Lotus WK4=False
+Jet 2.x=False
+
+[ActiveX Server Components]
+File1=
+
+[Confirm Dependencies]
+File1="C:\PROGRAM FILES\COMMON FILES\MICROSOFT SHARED\DAO\DAO350.DLL",True,32763
+File2="C:\WIN95\SYSTEM\RICHTX32.OCX",True,32764
+File3=
+
+[Shared ActiveX Application]
+optDeployApplication=True
+optDeployShared=False
+optRemoteServer1=True
+optRemoteServer0=False
+
+[File Summary]
+File1="C:\WIN95\SYSTEM\MSVBVM50.dll",True,"$(WinSysPathSysFile)",$(DLLSelfRegister),False
+File2="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\StdOle2.tlb",True,"$(WinSysPathSysFile)",$(TLBRegister),False
+File3="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\OleAut32.dll",True,"$(WinSysPathSysFile)",$(DLLSelfRegister),False
+File4="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\OlePro32.dll",True,"$(WinSysPathSysFile)",$(DLLSelfRegister),False
+File5="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\AsycFilt.dll",True,"$(WinSysPathSysFile)",,False
+File6="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\Ctl3d32.dll",True,"$(WinSysPathSysFile)",,False
+File7="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\ComCat.dll",True,"$(WinSysPathSysFile)",$(DLLSelfRegister),False
+File8="C:\PROGRAM FILES\COMMON FILES\MICROSOFT SHARED\DAO\DAO350.DLL",True,"$(MSDAOPath)",$(DLLSelfRegister),True
+File9="C:\WIN95\SYSTEM\MSJtEr35.dll",True,"$(WinSysPathSysFile)",,False
+File10="C:\WIN95\SYSTEM\MSJInt35.dll",True,"$(WinSysPathSysFile)",,False
+File11="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\MSVCRT40.dll",True,"$(WinSysPathSysFile)",,False
+File12="C:\WIN95\SYSTEM\RICHTX32.OCX",True,"$(WinSysPath)",$(DLLSelfRegister),True
+File13="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\RichEd32.dll",True,"$(WinSysPathSysFile)",,False
+File14="C:\WIN95\SYSTEM\MSJet35.dll",True,"$(WinSysPathSysFile)",$(DLLSelfRegister),False
+File15="C:\WIN95\SYSTEM\VBAJet32.dll",True,"$(WinSysPathSysFile)",,False
+File16="C:\WIN95\SYSTEM\VB5DB.dll",True,"$(WinSysPath)",,True
+File17="C:\WIN95\SYSTEM\MSRD2x35.dll",True,"$(WinSysPathSysFile)",$(DLLSelfRegister),False
+File18="C:\WIN95\SYSTEM\MsRepl35.dll",True,"$(WinSysPathSysFile)",,False
+File19="C:\WIN95\SYSTEM\ODBCJt32.dll",True,"$(WinSysPathSysFile)",,False
+File20="C:\WIN95\SYSTEM\ODBCJI32.dll",True,"$(WinSysPathSysFile)",,False
+File21="C:\WIN95\SYSTEM\ODBCTL32.dll",True,"$(WinSysPathSysFile)",,False
+File22="D:\ROY\CHAT\CHAT.exe",True,"C:\CHAT",,False
+File23="D:\ROY\CHAT\TEXT.LOG",True,"C:\CHAT",,False
+File24="D:\ROY\CHAT\CREDIT.BMP",True,"C:\CHAT",,False
+File25="D:\ROY\CHAT\Face00.ico",True,"C:\CHAT",,False
+File26="D:\ROY\CHAT\FACE01.ICO",True,"C:\CHAT",,False
+File27="D:\ROY\CHAT\FACE02.ICO",True,"C:\CHAT",,False
+File28="D:\ROY\CHAT\FACE03.ICO",True,"C:\CHAT",,False
+File29="D:\ROY\CHAT\Face04.ico",True,"C:\CHAT",,False
+File30="D:\ROY\CHAT\FONT",True,"C:\CHAT",,False
+File31="D:\ROY\CHAT\FONT2",True,"C:\CHAT",,False
+File32="D:\ROY\CHAT\H_NODROP.CUR",True,"C:\CHAT",,False
+File33="D:\ROY\CHAT\KEYSET",True,"C:\CHAT",,False
+File34="D:\ROY\CHAT\LIGHTOFF.ICO",True,"C:\CHAT",,False
+File35="D:\ROY\CHAT\LIGHTON.ICO",True,"C:\CHAT",,False
+File36="D:\ROY\CHAT\MES",True,"C:\CHAT",,False
+File37="D:\ROY\CHAT\MSGBOX02.ICO",True,"C:\CHAT",,False
+File38="D:\ROY\CHAT\NAMES",True,"C:\CHAT",,False
+File39="D:\ROY\CHAT\PASSCODE",True,"C:\CHAT",,False
+File40="D:\ROY\CHAT\PATH",True,"C:\CHAT",,False
+File41="D:\ROY\CHAT\ST",True,"C:\CHAT",,False
+File42="D:\ROY\CHAT\STATUS",True,"C:\CHAT",,False
+File43="D:\ROY\CHAT\swissek.ttf",True,"$(WinPath)\FONTS",,True
+File44="D:\ROY\CHAT\BEEP.TXT",True,"C:\CHAT",,False
+File45="D:\ROY\CHAT\TEXT.TXT",True,"C:\CHAT",,False
+File46="D:\ROY\CHAT\TRASH03.ICO",True,"C:\CHAT",,False
+File47="D:\ROY\CHAT\tt1129m_.ttf",True,"$(WinPath)\FONTS",,True
+File48="D:\ROY\CHAT\START\README.doc",True,"C:\CHAT\START",,False
+File49="D:\ROY\CHAT\START\FONTS(WIN95).lnk",True,"C:\CHAT\START",,False
+File50="D:\ROY\CHAT\MESSAGES\TEST",True,"C:\CHAT\MESSAGES",,False
+File51="D:\ROY\CHAT\LIST.txt",True,"C:\CHAT",,False
