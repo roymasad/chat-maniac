@@ -39,7 +39,7 @@ I had no idea how to program Winsocks, nor access to 24/7 internet, the local ne
 
 -It is full of intentional and unintentional security holes
 
--It needs a bunch of activex .ocx files to run that dont come to later versions of windows
+-It needs a bunch of activex .ocx files to run that dont come with later versions of windows
 
 -I honestly dont know how it ran and for years looking at the code mess that powered it. If big companies could do it i guess a teen can also do it..
 
