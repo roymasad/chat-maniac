@@ -14,18 +14,19 @@ I had no idea how to program Winsocks, nor access to 24/7 internet, the local ne
 
 **Quirks:**
 
--It actually worked, i found it cute and it served me and my friends in the 90s for many years before MSN and Yahoo messengers became a thing
+-It actually worked, i found it cute and it served me and my friends in the 90s for many years before IRC client, MSN and Yahoo messengers became a thing later
 -It's very old horrible VB 6 code, but it still compiles if you install VB6 in a Win95/98 machine
 -It's not well documented at all
--It's full of creative variable names from curse words, sexual stuff, name calling to every other teen agnst issue in between
--It's basically a guide for How NOT to program now
+-It's full of creative variable names from curse words, sexual stuff, name calling to every other teen agnst issue in between. Reading it now is a blast, literally
+-It's basically a guide for How NOT to program these days
 -It must be installed to c:\chat to work, and this folder must be shared over the network for each computer that needs to use it
 -It has a primitive client/server architecture
 -It is full of intentional and unintentional security holes
 -It needs a bunch of activex .ocx files to run that dont come to later versions of windows
 -I honestly dont know how it ran and for years looking at the code mess
--It's part of history for me, and the last program/time i ever wanted to touch VB code again
+-It's part of history for me, and the last program/time i ever wanted to touch VB code again as it was giving me bad programing habits before i learned C and C++ 
 -Never figured out how to bundle it back then with InstallShield to distrubute it to my friends, i just copy pasted the folder to them
+-It ended up having also voice mail, Profile Pictures, Kicking out features, and 'mail messaging' with font features somehow..
 
 **Notes:**
 -I won't mind doing a complete rework from scratch of this using React + Firebase while keeping the Chat Maniac 'brand' name
