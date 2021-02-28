@@ -3,8 +3,11 @@ Old Windows 95/98 Network Chat Program
 
 
 Code : Roy Massaad
+
 License: MIT
+
 Date life: Between 1996-1999
+
 Category: Archive/Nostalgia
 
 
