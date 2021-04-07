@@ -4,7 +4,7 @@ Old Windows 95/98 Network Chat Program
 
 Code : Roy Massaad
 
-License: BSD 2
+License: GPL 2
 
 Date life: Between 1996-1999
 
