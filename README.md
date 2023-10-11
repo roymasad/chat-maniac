@@ -10,6 +10,8 @@ Date life: Between 1996-1999
 
 Category: Archive/Nostalgia
 
+![](screenshot.png)
+
 
 Chat Maniac is a network chat program i wrote when i was 16 using Visual Basic 6
 
